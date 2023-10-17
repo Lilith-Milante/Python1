@@ -27,3 +27,4 @@ class Scanner:
 if __name__ == '__main__':
     scan = Scanner()
     print('hello')
+
